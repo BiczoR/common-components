@@ -1,0 +1,1 @@
+Simple footer created on Codeberryschool (https://codeberryschool.com/hu/)
